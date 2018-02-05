@@ -3,7 +3,7 @@ layout: page
 title: Artists
 permalink: /artists/
 ---
-<hr>
+<hr><br>
 ## **Here is a list of artists that are currently a part of the Deadleg Incident Records lineup, as well as their respective bios**
 <br><br>
 # **Animal Afterlife Society**
