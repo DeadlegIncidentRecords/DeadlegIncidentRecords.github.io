@@ -19,7 +19,7 @@ permalink: /artists/
 <blockquote>Heaven Of Animals is the mastermind behind Deadleg Incident Records. They develop experimental and heavy noise, ranging from loud and bassy harsh noise wall, to musique-concrete noise compositions using shortwave radio transmissions.</blockquote>
 
 
-# **Project 6** (On indefinite hiatus)
+# **Project 6** *(On indefinite hiatus)*
 <blockquote>Project 6 was a pre-Deadleg project started and ended by Heaven Of Animals. It featured an experimental release of sample-based harsh noise, as well as some noise rock.</blockquote>
 
 
