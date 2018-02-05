@@ -4,4 +4,15 @@ title: Artists
 permalink: /artists/
 ---
 
-this is currently filler, testing testing 1 2 3 !
+# Here is a list of artists that are currently a part of the Deadleg Incident Records lineup
+
+
+Animal Afterlife Society
+
+Dantanian
+
+Heaven Of Animals
+
+Project 6 (On indefinite hiatus)
+
+Spacial Absence
