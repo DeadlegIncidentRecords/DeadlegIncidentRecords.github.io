@@ -9,5 +9,5 @@ permalink: /catalog/
 
 # Experiments In Shortwave Vol. I
 *released January 7, 2018*
-*Harsh noise made with shortwave radio recordings. The first of many projects involving shortwave recordings.
+*Harsh noise made with shortwave radio recordings. The first of many projects involving shortwave recordings.*
 <iframe style="border: 0; width: 400px; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=3807397724/size=large/bgcol=333333/linkcol=e32c14/artwork=small/transparent=true/" seamless><a href="http://deadlegincidentrecords.bandcamp.com/album/experiments-in-shortwave-vol-i">Experiments In Shortwave Vol. I by Heaven Of Animals</a></iframe>
