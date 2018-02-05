@@ -3,7 +3,7 @@ layout: page
 title: Catalog
 permalink: /catalog/
 ---
-<hr>
+<hr><br>
 # [Deadleg Incident Records Official Bandcamp Page](https://deadlegincidentrecords.bandcamp.com/music)<br>
 # Animal Afterlife Society's Discography *(currently empty)*<br>
 # Dantanian's Discography *(currently empty)*<br>
