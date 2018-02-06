@@ -4,7 +4,7 @@ title: Catalog
 permalink: /catalog/
 ---
 <hr><br>
-# [Deadleg Incident Records Official Bandcamp Page](https://deadlegincidentrecords.bandcamp.com/music)<br>
+# • [Deadleg Incident Records Official Bandcamp Page](https://deadlegincidentrecords.bandcamp.com/music)<br><br>
 # Animal Afterlife Society's Discography *(currently empty)*<br>
 # [Dantanian's Discography](catalog/dntn_catalog.html)<br>
 # [Heaven Of Animals' Discography](catalog/hoa_catalog.html)<br>

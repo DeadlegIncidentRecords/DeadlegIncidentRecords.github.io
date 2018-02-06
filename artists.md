@@ -4,7 +4,7 @@ title: Artists
 permalink: /artists/
 ---
 <hr><br>
-## **Here is a list of artists that are currently a part of the Deadleg Incident Records lineup, as well as their respective bios**
+# **Here is a list of artists that are currently a part of the Deadleg Incident Records lineup, as well as their respective bios**
 <br><br>
 # **Animal Afterlife Society**
 <blockquote>Animal Afterlife Society is the experimental side project of Heaven Of Animals which tampers in more accessible music and use of conventional instruments. Some frequent genres may include folk, post-rock, post-punk, krautrock, and various forms of metal.</blockquote>
