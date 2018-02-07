@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    <h1 style="font-size: 42px;" class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1><hr><br>
+    <h1 style="font-size: 42px;" class="post-list-heading">{{ page.list_title | default: "What's New?" }}</h1><hr><br>
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
