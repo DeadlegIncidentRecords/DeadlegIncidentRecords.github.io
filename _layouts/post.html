@@ -12,12 +12,12 @@ layout: default
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
-  </header><hr>
+      {% endif %}</p><hr>
+  </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div><hr>
+    {{ content }}<hr>
+  </div>
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
