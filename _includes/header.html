@@ -6,7 +6,7 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}" style="color=white;">{{ site.title | escape }}</a>
 
     {% if page_paths %}
-      <nav class="site-nav" style="color=white;">
+      <nav class="site-nav" style="color:white;">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
@@ -18,7 +18,7 @@
           </span>
         </label>
 
-        <div class="trigger" style="color=white;">
+        <div class="trigger" style="color:white;">
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
