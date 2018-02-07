@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Deadleg Incident Records
 email: deadlegincidentrecords@gmail.com
+author: Wes L
 description: >- # this means to ignore newlines until "baseurl:"
   The avant-garde and experimental record label started by Heaven Of Animals.
 baseurl: "/" # the subpath of your site, e.g. /blog
