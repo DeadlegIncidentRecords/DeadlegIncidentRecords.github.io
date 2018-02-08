@@ -17,9 +17,10 @@
             </svg>
           </span>
         </label>
+        
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="../assets/title.png" width=50% height=50% alt="Deadleg Incident Records"></a>
 
         <div class="trigger">
-           <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="../assets/title.png" width=50% height=50% alt="Deadleg Incident Records"></a>
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
