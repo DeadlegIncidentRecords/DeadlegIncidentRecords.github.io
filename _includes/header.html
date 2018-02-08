@@ -3,7 +3,7 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="../assets/title.png" width=50% height=50% alt="Deadleg Incident Records"></a>
+    <!--<a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="../assets/title.png" width=50% height=50% alt="Deadleg Incident Records"></a>-->
 
     {% if page_paths %}
       <nav class="site-nav">
@@ -19,6 +19,7 @@
         </label>
 
         <div class="trigger">
+           <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="../assets/title.png" width=50% height=50% alt="Deadleg Incident Records"></a>
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
