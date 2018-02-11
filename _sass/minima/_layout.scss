@@ -39,7 +39,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -109,7 +109,7 @@
  */
 .site-footer {
   /*border-top: 1px solid $grey-color-light;*/
-  background-image: url('../assets/unknown.png'); 
+  background-image: url('../assets/unknown.png');
   background-size: 100%;
   padding: $spacing-unit 0;
 }
