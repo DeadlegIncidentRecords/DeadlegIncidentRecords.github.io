@@ -10,7 +10,7 @@ permalink: /about/
     <input type="text" name="cf_name"><br>
     Your e-mail<br>
     <input type="text" name="cf_email"><br>
-    Subject
+    Subject<br>
     <input type="text" name="cf_subject"><br>
     Message<br>
     <textarea name="cf_message"><br>
