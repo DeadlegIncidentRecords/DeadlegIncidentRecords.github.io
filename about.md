@@ -13,7 +13,7 @@ permalink: /about/
     Subject<br>
     <input type="text" name="cf_subject"><br>
     Message<br>
-    <textarea name="cf_message"><br>
+    <textarea name="cf_message"></textarea><br>
     <input type="submit" value="Send">
     <input type="reset" value="Clear">
 </form>
