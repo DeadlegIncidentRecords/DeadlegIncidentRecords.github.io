@@ -6,7 +6,7 @@ permalink: /about/
 <hr><br>
 
 <h2>Who are we?</h2>
-<p>We are Deadleg Incident Records, a record label started by Heaven Of Animals aimed to empower experimental artists and to promote and produce avant-garde compositions and projects that span over many genres. These can include noise, drone, ambient, folk, metal, rock, electronics, or anything really! We hope you enjoy our catalog and feel free to send us a message or a comment!</p><br>
+<p>We are Deadleg Incident Records, a group of artists started by Heaven Of Animals aimed to empower experimental musicians and to promote and produce avant-garde compositions and projects that span over many genres. These can include noise, drone, ambient, folk, metal, rock, electronics, or anything really! Not only do we experiment in music, we also dabble in the world of traditional and visual arts, photography, and literature. We hope you enjoy our catalog and feel free to send us a message or a comment!</p><br>
 
 <h2>Send us a message!</h2>
 <p>Yes, we accept digital demos! Please send us music we can stream, rather than downloadable files! thank you!</p>
