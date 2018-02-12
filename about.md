@@ -5,15 +5,9 @@ permalink: /about/
 ---
 <hr><br>
 
-<form action="contact.php" method="post">
-    Your name<br>
-    <input type="text" name="cf_name"><br>
-    Your e-mail<br>
-    <input type="text" name="cf_email"><br>
-    Subject<br>
-    <input type="text" name="cf_subject"><br>
-    Message<br>
-    <textarea name="cf_message"></textarea><br>
-    <input type="submit" value="Send">
-    <input type="reset" value="Clear">
+<form method="POST" action="https://formspree.io/deadlegincidentrecords@gmail.com">
+  <input type="text" name="name" placeholder="Your name">
+  <input name="email" placeholder="Your email" type="email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
 </form>
