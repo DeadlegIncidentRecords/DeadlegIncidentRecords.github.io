@@ -11,7 +11,7 @@ permalink: /about/
 <h2>Send us a message!</h2>
 <p>Yes, we accept digital demos! Please send us music we can stream, rather than downloadable files! thank you!</p>
 <p>Please fill out the form below or email us at <a class="u-email" href="mailto:deadlegincidentrecords@gmail.com">deadlegincidentrecords@gmail.com</a></p>
-<form method="POST" target="_blank" action="https://formspree.io/deadlegincidentrecords@gmail.com" style="2px dashed #8b0000">
+<form method="POST" target="_blank" action="https://formspree.io/deadlegincidentrecords@gmail.com" style="outline: 2px dashed #8b0000;">
   <input type="text" name="name" placeholder="Your name" required><br>
   <input name="email" placeholder="Your email" type="email" required><br>
   <textarea name="message" placeholder="Your message" required></textarea><br>
