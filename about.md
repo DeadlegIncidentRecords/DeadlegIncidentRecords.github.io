@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <hr><br>
 
-<form action="contact.php" method="post">
+<form action="../contact.php" method="post">
     Your name<br>
     <input type="text" name="cf_name"><br>
     Your e-mail<br>
