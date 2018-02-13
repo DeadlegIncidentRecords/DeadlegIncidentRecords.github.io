@@ -17,7 +17,7 @@ title: Deadleg Incident Records
 email: deadlegincidentrecords@gmail.com
 author: Wes L
 description: >- # this means to ignore newlines until "baseurl:"
-  The avant-garde and experimental record label started by Heaven Of Animals.
+  Independent music and arts label based around the experimental and avant-garde
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://deadlegincident.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
