@@ -146,10 +146,10 @@
 .footer-col-2 {
   width: -webkit-calc(20% - (#{$spacing-unit} / 2));
   width:         calc(20% - (#{$spacing-unit} / 2));
-  display: inline; 
+  /*display: inline; 
   margin: 0; 
   padding: 0; 
-  list-style-type: none;
+  list-style-type: none;*/
 }
 
 .footer-col-3 {
