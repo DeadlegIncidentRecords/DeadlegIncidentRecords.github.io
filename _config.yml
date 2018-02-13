@@ -25,7 +25,8 @@ show_excerpts: true
 #socials
 instagram_username: deadlegincidentrecords
 github_username:  DeadlegIncidentRecords
-#youtube_username:  
+youtube_username:  channel/UCtAu5tQEeudbvs3_1oq2hvQ
+#bandcamp_username:  
 
 # Build settings
 markdown: kramdown
