@@ -6,7 +6,7 @@ catergories: important-messages
 author: Heaven Of Animals
 ---
 
-Hello Everyone, Heaven Of Animals here to announce my new album!
+Hello Everyone, Heaven Of Animals here to announce my new album!<br>
 "Experiments In Shortwave Vol. II"
 
 I branched out a ton on this project, using more shortwave recordings and sources, as well as developing more HNW and experimenting with rhythmic noise.
