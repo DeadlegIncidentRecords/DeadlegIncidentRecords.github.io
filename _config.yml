@@ -19,7 +19,7 @@ author: Wes L
 description: >- # this means to ignore newlines until "baseurl:"
   Independent music and arts label based around the experimental and avant-garde
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://deadlegincident.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deadlegincidentrecords.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 
 #socials
