@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Animal Afterlife Society - NEW ALBUM
-date: 2018-04-57 22:25:00 -0500
+date: 2018-04-27 20:25:00 -0500
 catergories: important-messages
 author: Animal Afterlife Society
 ---
