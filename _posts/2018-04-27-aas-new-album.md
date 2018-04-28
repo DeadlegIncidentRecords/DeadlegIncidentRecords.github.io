@@ -7,7 +7,8 @@ author: Animal Afterlife Society
 ---
 
 Greetings. Animal Afterlife Society here, announcing the release of my debut album.<br>
-It is titled: "Death Encircles Mount Obscuro"<br>
+It is titled: "Death Encircles Mount Obscuro"<br><br>
+
 This project is a heavy drone metal album that I made while being depressed and laying on my bed.<br>
 All that was used was a 4 string Ibanez bass tuned to BEAD, a Spider effects amp, and a trashy laptop.<br>
 Bass > Amp with reverb and distortion and compression and stuff > DAW with a bunch of dumb effects.<br>
